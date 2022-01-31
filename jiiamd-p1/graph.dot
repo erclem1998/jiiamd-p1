@@ -1,0 +1,6 @@
+digraph G{
+Node0[label="0"];
+Node0[label="0"];
+Node1[label="1"];
+Node0->Node1[label="-1"];
+}
